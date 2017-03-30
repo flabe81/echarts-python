@@ -20,7 +20,7 @@ from .option import Axis, Legend, Series, Tooltip, Toolbox, VisualMap
 from .datastructure import *
 
 __version__ = '0.1'
-__release__ = '0.1.3'
+__release__ = '0.1.4'
 __author__ = 'Hsiaoming Yang <me@lepture.com>'
 
 
